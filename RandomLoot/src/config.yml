@@ -1,0 +1,20 @@
+chest-items:
+  0:
+    material: diamond
+    name: '&b&lLucky!'
+    chance: 0.1 
+    maxAmount: 2
+    minAmount: 1
+    enchants:
+      KNOCKBACK: 4
+    lore:
+    - 'You are lucky'
+  1:
+    material: diamond_sword
+    name: '&c&lEz'
+    chance: 0.9
+    maxAmount: 1
+    minAmount: 1
+    enchants:
+    lore:
+    - ''

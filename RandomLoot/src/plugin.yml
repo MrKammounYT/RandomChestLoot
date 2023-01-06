@@ -1,0 +1,6 @@
+name: RandomLoot
+version: 0.1
+author: SrKammounYT
+main: src.main
+commands:
+  reset:
