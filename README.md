@@ -1,2 +1,3 @@
 # RandomChestLoot
 a simple open source minecraft plugin that allows you to add random loot to a chest
+you can edit the config to add more items,chances,(max/min),lore,name,enchants....
